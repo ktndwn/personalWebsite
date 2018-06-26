@@ -1,3 +1,3 @@
 # Ketan Dewan
 
-Source for my [personal portfolio website](http://www.ketandewan.com) directly hosted here on github.
+Source for my [personal portfolio website](https://ketandewan.com) directly hosted here on github.
