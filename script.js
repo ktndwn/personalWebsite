@@ -1,19 +1,4 @@
 
-/*
-var distance = 50;
-var speed = 25;
-var scrollPosition = 0;
-
-function autoScrollTo(link) {
-  var currentPosition = window.pageYOffset;
-  var targetPosition = document.getElementById(link).offsetTop;
-}
-
-
-function autoScrollTo(link) {
-  link.scrollIntoView({block: "start", behavior: "smooth"});
-}
-*/
 
 document.getElementById('fxreellink').addEventListener('click', scrollToReel);
 document.getElementById('weblink').addEventListener('click', scrollToWeb);
