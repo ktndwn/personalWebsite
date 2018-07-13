@@ -325,7 +325,7 @@ span {
 
 .project:hover {
   border:  1px solid white;
-  transition: all .25s ease-in-out;
+  transition: border .25s ease-in-out;
 }
 
 .project-links {
@@ -348,6 +348,57 @@ span {
   border-color: rgba(255,115,0,1);
   transition: all .25s ease-in-out;
 }
+
+#project-one {
+  background: url(assets/spacex-thumb.png) no-repeat center;
+  background-size: 400px 400px;
+}
+
+#project-one:hover {
+  background-size: 600px 600px;
+  transition: all .25s ease-in-out;
+}
+
+#project-two {
+  background: url(assets/map-thumb.png) no-repeat center;
+  background-size: 400px 400px;
+}
+
+#project-two:hover {
+  background-size: 600px 600px;
+  transition: all .25s ease-in-out;
+}
+
+#project-three {
+  background: url(assets/workout-thumb.png) no-repeat center;
+  background-size: 400px 400px;
+}
+
+#project-three:hover {
+  background-size: 600px 600px;
+  transition: all .25s ease-in-out;
+}
+
+#project-four {
+  background: url(assets/personal-thumb.png) no-repeat center;
+  background-size: 400px 400px;
+}
+
+#project-four:hover {
+  background-size: 600px 600px;
+  transition: all .25s ease-in-out;
+}
+
+#project-five {
+  background: url(assets/displace-thumb.png) no-repeat center;
+  background-size: 400px 400px;
+}
+
+#project-five:hover {
+  background-size: 600px 600px;
+  transition: all .25s ease-in-out;
+}
+
 
 .codes {
   display: flex;
