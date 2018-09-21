@@ -239,19 +239,6 @@ span {
 }
 */
 
-.hdlink a{
-  color: white;
-  font-weight: 300;
-  border: 1px solid #ff7300;
-  padding: 10px;
-  background-color: #202020;
-  transition: all .25s ease-in-out;
-}
-
-.hdlink a:hover {
-  border:  1px solid white;
-  transition: all .25s ease-in-out;
-}
 
 .fxlist {
   margin: 40px auto;
